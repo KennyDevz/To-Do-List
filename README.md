@@ -10,5 +10,6 @@ A simple **To-Do List web application** built with **Django**. Users can create,
 
 ## 🛠 Tech Stack
 - **Backend:** Django (Python)  
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, JavaScript 
 - **Database:** SQLite (default, easy to run)  
+
